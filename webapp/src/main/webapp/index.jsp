@@ -3,7 +3,7 @@
  <html>
  <head>
     <title>  Тестовая страничка </title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=cp1251" />
 	 
  </head>
  
@@ -17,9 +17,9 @@
          </div>
 </div>
 
-<h2 style="color:#800000"> Стих о Linux </h2>
+<h2> Стих о Linux </h2>
 
-<h3 tyle="color:#800000"> Не жалею, не зову, не плачу, 
+<h3> Не жалею, не зову, не плачу, 
 И за патчем к Гейтсу не пойду,
 Красотою Linux'а охваченный, 
 Удалю с винчестера Винду. <br>
